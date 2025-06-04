@@ -1,6 +1,6 @@
 # Tekbot Robotics – Architecture et Documentation
 
-Ce dépôt contient trois modules principaux en Python :
+Le dossier **'Test_1'** contient trois modules principaux en Python :
 1. **`robot.py`** : classe de base `Robot`.  
 2. **`robot_collector.py`** : sous-classe `RobotCollector` (collecte de cubes).  
 3. **`robot_trieur.py`** : sous-classe `RobotTrieur` (tri et dépôt).
@@ -11,7 +11,7 @@ Ce dépôt contient trois modules principaux en Python :
 
 - **Fichier** : `robot.py`  
 - **Rôle** : définir les attributs et méthodes communs à tous les robots.  
-- **Attributs privés/protégés** :
+- **Attributs privés** :
   - `__name` : nom du robot (str).  
   - `__position` : tuple (x, y, θ) – position dans l’arène.  
   - `__vitesseLin`, `__vitesseAng` : vitesses linéaire (m/s) et angulaire (rad/s).  
