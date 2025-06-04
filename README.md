@@ -154,13 +154,4 @@ Ce dépôt contient trois modules principaux en Python :
   - Tri/dépôt (`sortNextCube`, `navigateArmTo`, `release`).  
   - Calibration des corbeilles (`calibrateSortingZone`).
 
----
 
-## 5. Utilisation et tests
-
-### 5.1 Installation
-
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/TON_UTILISATEUR/TEKBOT.git
-   cd TEKBOT
