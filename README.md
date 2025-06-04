@@ -1,6 +1,6 @@
 # Tekbot Robotics – Architecture et Documentation
 
-Le dossier **'Test_1'** contient trois modules principaux en Python :
+Le dossier **`Test_1`** contient trois modules principaux en Python :
 1. **`robot.py`** : classe de base `Robot`.  
 2. **`robot_collector.py`** : sous-classe `RobotCollector` (collecte de cubes).  
 3. **`robot_trieur.py`** : sous-classe `RobotTrieur` (tri et dépôt).
