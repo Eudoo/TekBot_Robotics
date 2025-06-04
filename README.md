@@ -57,7 +57,7 @@ Le dossier **`Test_1`** contient trois modules principaux en Python :
      - Deux modes (commentés) :
        - **Cas 1 (encodeurs)** : lire `wheel_left_speed`, `wheel_right_speed` → calculer `v` et `ω` par cinématique différentielle :
          
-         ![Formule](https://github.com/Eudoo/TekBot_Robotics/blob/main/images/code1.png)
+         ![Formule](https://github.com/Eudoo/TekBot_Robotics/blob/main/images/code1.svg)
 
          puis mettre à jour `(x,y,θ)` par intégration Euler sur `dt = 0.1`.  
        - **Cas 2 (sans encodeurs)** : utiliser directement `self._vitesseLin` et `self._vitesseAng`.
