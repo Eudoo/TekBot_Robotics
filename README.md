@@ -140,4 +140,4 @@ Le dossier **`Test_1`** contient trois modules principaux en Python :
 
 ## 4. Diagramme de Classe UML 
 
-![Formule](images/diagram_class.svg)
+![Formule](images/diagram_class.png)
